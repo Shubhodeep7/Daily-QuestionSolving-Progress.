@@ -7,19 +7,19 @@ int main() {
     while (t--) {
         int n;
         cin >> n;
-        vector<int> a(n), b(n);
-        for (int i = 0; i < n; i++) 
-        cin >> a[i];
-        for (int i = 0; i < n; i++) 
-        cin >> b[i];
-        int ans = 0;
-        for (int i = 0; i < n - 1; i++) {
-            int gain = a[i] - b[i + 1];
-            if (gain > 0) 
-            ans += gain;
+        vector<string> grid(n);
+        for (int i = 0; i < n; i++) {
+            cin >> grid[i];
         }
-        ans += a[n - 1];
-        cout << ans << "\n";
+        for (int i = n - 1; i >= 0; i--) {
+            for (int j = 0; j < 4; j++) {
+                if (grid[i][j] == '#') {
+                    cout << j + 1 << " ";
+                    break;
+                }
+            }
+        }
+        cout << "\n";
     }
     return 0;
 }
