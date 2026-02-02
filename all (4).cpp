@@ -1,17 +1,10 @@
 class Solution {
 public:
-    bool isAnagram(string s, string t) {
-    if(s.length() != t.length())
-    return false;
-    int freq[256] = {0};
-    for(char c : s)
-    freq[c]++;
-
-    for(char c : t){
-    freq[c]--;
-    if(freq[c]<0)
-    return false;
+    void reverseString(vector<char>& s) {
+    int st = 0;
+    int e = s.size()-1;
+    while(st<e){
+    swap(s[st++],s[e--]);  
     }
-    return true;
-    }
+ }
 };
