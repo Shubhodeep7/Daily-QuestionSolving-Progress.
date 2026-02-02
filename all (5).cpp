@@ -1,19 +1,10 @@
 class Solution {
 public:
-    int majorityElement(vector<int>& nums) {
-        int ans = nums[0], count = 1;
-
-        for(int i = 1; i < nums.size(); i++) {
-            if(nums[i] == ans)
-                count++;
-            else
-                count--;
-
-            if(count == 0) {
-                ans = nums[i];
-                count = 1;
-            }
-        }
-        return ans;
+    void reverseString(vector<char>& s) {
+    int st = 0;
+    int e = s.size()-1;
+    while(st<e){
+    swap(s[st++],s[e--]);  
     }
+ }
 };
