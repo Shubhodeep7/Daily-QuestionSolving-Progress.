@@ -1,28 +1,30 @@
-#include <bits/stdc++.h>
-using namespace std;
-
-int main() {
-
-    int t;
-    cin >> t;
-
-    while (t--) {
-        long long n;
-        cin >> n;
-
-        int k = 0;
-        while (n > 3) {
-            n /= 4;
-            k++;
+class Solution {
+public:
+    int myAtoi(string s) {
+        int i = 0;
+        int n = s.size();
+        while (i < n && s[i] == ' ')
+         i++;
+        int start = i;
+        if (i < n && (s[i] == '-' || s[i] == '+')) {
+            start = i + 1;
         }
-
-        long long ans = 1;
-        for (int i = 0; i < k; i++) {
-            ans *= 2;
+        long long ans = 0;
+        for (int j = start; j < n; j++) {
+            if (s[j] >= '0' && s[j] <= '9') {
+                int d = s[j] - '0';
+                ans = ans * 10 + d;
+                if (ans > INT_MAX) break;
+            } else {
+                break;
+            }
         }
-
-        cout << ans << endl;
+        if (i < n && s[i] == '-')
+            ans = -ans;
+        if (ans > INT_MAX) 
+        return INT_MAX;
+        if (ans < INT_MIN) 
+        return INT_MIN;
+        return (int)ans;
     }
-
-    return 0;
-}
+};
