@@ -78,7 +78,7 @@ Each day includes:
 
 ## ⭐ Motivation
 
-> Consistency beats talent when talent doesn’t stay consistent.
+> I don't need one!
 
 ---
 
