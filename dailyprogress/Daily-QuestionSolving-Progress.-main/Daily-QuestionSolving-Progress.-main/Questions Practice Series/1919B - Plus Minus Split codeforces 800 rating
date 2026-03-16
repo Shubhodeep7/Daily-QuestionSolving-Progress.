@@ -1,0 +1,23 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    int t;
+    cin >> t;
+    while (t--) {
+        int n;
+        cin >> n;
+        string s;
+        cin >> s;
+        long long sum = 0;
+        long long min_prefix = 0;
+        long long prefix = 0;
+        for (int i = 0; i < n; i++) {
+            if (s[i] == '+') prefix += 1;
+            else prefix -= 1;
+            min_prefix = min(min_prefix, prefix);
+        }
+        cout << prefix - 2 * min_prefix << "\n";
+    }
+    return 0;
+}

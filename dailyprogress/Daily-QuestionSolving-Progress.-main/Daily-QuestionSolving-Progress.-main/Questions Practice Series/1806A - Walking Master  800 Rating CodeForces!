@@ -1,0 +1,23 @@
+#include <bits/stdc++.h>
+using namespace std;
+int main() {
+    int t;
+    cin >> t;
+    while (t--) {
+        long long a, b, c, d;
+        cin >> a >> b >> c >> d;
+        long long up = d - b;
+        if (up < 0) {
+            cout << -1 << "\n";
+            continue;
+        }
+        long long x_after_up = a + up;
+        long long left = x_after_up - c;
+        if (left < 0) {
+            cout << -1 << "\n";
+            continue;
+        }
+        cout << up + left << "\n";
+    }
+    return 0;
+}
