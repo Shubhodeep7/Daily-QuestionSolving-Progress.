@@ -33,3 +33,15 @@ Each day includes:
 ---
 ## 🤝 Connect
 Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0020-valid-parentheses) |
+<!---LeetCode Topics End-->
