@@ -44,4 +44,9 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
