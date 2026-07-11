@@ -49,6 +49,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0496-next-greater-element-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0735-asteroid-collision) |
+| [2104-sum-of-subarray-ranges](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0496-next-greater-element-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0735-asteroid-collision) |
+| [2104-sum-of-subarray-ranges](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +72,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0042-trapping-rain-water](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0503-next-greater-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2104-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
 | ------- |
