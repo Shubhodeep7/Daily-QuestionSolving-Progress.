@@ -62,6 +62,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0503-next-greater-element-ii) |
@@ -93,6 +94,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
