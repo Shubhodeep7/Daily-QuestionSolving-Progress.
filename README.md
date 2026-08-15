@@ -75,6 +75,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [1004-max-consecutive-ones-iii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2104-sum-of-subarray-ranges) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,4 +155,8 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0992-subarrays-with-k-different-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
