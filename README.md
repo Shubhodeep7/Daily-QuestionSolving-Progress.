@@ -152,6 +152,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0628-maximum-product-of-three-numbers) |
 | [2029-stone-game-ix](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3345-smallest-divisible-digit-product-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3536-maximum-product-of-two-digits) |
 ## Enumeration
 |  |
 | ------- |
@@ -185,4 +186,5 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0628-maximum-product-of-three-numbers) |
+| [3536-maximum-product-of-two-digits](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
