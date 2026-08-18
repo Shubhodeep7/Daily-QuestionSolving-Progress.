@@ -44,6 +44,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0402-remove-k-digits](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
@@ -117,6 +118,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | ------- |
 | [0402-remove-k-digits](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0402-remove-k-digits) |
 | [2029-stone-game-ix](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2029-stone-game-ix) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -152,6 +154,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0628-maximum-product-of-three-numbers) |
 | [2029-stone-game-ix](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2029-stone-game-ix) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3536-maximum-product-of-two-digits) |
 ## Enumeration
