@@ -66,6 +66,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0496-next-greater-element-i) |
@@ -136,6 +137,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0035-search-insert-position) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
