@@ -164,6 +164,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0367-valid-perfect-square](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0628-maximum-product-of-three-numbers) |
 | [2029-stone-game-ix](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2029-stone-game-ix) |
+| [2235-add-two-integers](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3536-maximum-product-of-two-digits) |
