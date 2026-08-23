@@ -70,6 +70,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0496-next-greater-element-i) |
@@ -115,6 +116,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0027-remove-element](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
@@ -169,6 +171,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1295-find-numbers-with-even-number-of-digits) |
