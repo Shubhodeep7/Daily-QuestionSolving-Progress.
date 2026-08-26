@@ -71,6 +71,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0189-rotate-array) |
@@ -129,6 +130,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0118-pascals-triangle) |
 ## Simulation
@@ -256,4 +258,8 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1672-richest-customer-wealth) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
