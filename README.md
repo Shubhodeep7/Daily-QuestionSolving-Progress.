@@ -73,6 +73,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0042-trapping-rain-water](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0217-contains-duplicate) |
@@ -126,6 +127,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0027-remove-element](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0283-move-zeroes) |
 ## Dynamic Programming
@@ -229,6 +231,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -265,4 +268,12 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0053-maximum-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
