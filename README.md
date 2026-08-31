@@ -78,6 +78,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0189-rotate-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0560-subarray-sum-equals-k) |
@@ -105,6 +106,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0560-subarray-sum-equals-k) |
@@ -207,6 +209,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1189-maximum-number-of-balloons) |
 | [2029-stone-game-ix](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2029-stone-game-ix) |
@@ -235,12 +238,14 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | ------- |
 | [0075-sort-colors](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String Matching
 |  |
@@ -270,6 +275,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0347-top-k-frequent-elements) |
 ## Quicksort
 |  |
 | ------- |
@@ -278,4 +284,12 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0075-sort-colors) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
