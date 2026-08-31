@@ -42,6 +42,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0424-longest-repeating-character-replacement) |
@@ -135,6 +136,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0075-sort-colors](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0345-reverse-vowels-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
