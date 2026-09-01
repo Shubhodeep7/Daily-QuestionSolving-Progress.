@@ -44,6 +44,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0290-word-pattern](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0424-longest-repeating-character-replacement) |
@@ -111,6 +112,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0217-contains-duplicate](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0496-next-greater-element-i) |
@@ -216,6 +218,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1189-maximum-number-of-balloons) |
