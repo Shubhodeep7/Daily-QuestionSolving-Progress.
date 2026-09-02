@@ -106,6 +106,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2104-sum-of-subarray-ranges) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -212,6 +213,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3536-maximum-product-of-two-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3875-construct-uniform-parity-array-i) |
 ## Enumeration
 |  |
 | ------- |
