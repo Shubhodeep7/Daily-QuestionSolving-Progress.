@@ -110,6 +110,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [2104-sum-of-subarray-ranges](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2104-sum-of-subarray-ranges) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -223,6 +224,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3536-maximum-product-of-two-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3876-construct-uniform-parity-array-ii) |
 ## Enumeration
 |  |
 | ------- |
