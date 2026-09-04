@@ -93,6 +93,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0992-subarrays-with-k-different-integers) |
@@ -197,6 +198,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0367-valid-perfect-square](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Prefix Sum
