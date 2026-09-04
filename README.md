@@ -88,6 +88,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0268-missing-number](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0560-subarray-sum-equals-k) |
@@ -124,6 +125,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0268-missing-number](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0424-longest-repeating-character-replacement) |
@@ -154,6 +156,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0189-rotate-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -197,6 +200,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -280,6 +284,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0217-contains-duplicate](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3536-maximum-product-of-two-digits) |
