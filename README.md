@@ -193,6 +193,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -340,5 +341,6 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
