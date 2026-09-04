@@ -82,6 +82,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0066-plus-one](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0118-pascals-triangle) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0268-missing-number) |
@@ -193,6 +194,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0367-valid-perfect-square) |
