@@ -102,6 +102,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0992-subarrays-with-k-different-integers](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -136,6 +137,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0930-binary-subarrays-with-sum](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1189-maximum-number-of-balloons) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Monotonic Stack
@@ -158,6 +160,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0283-move-zeroes](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0349-intersection-of-two-arrays) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1346-check-if-n-and-its-double-exist) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -208,6 +211,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1004-max-consecutive-ones-iii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Prefix Sum
 |  |
@@ -288,6 +292,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0347-top-k-frequent-elements](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0628-maximum-product-of-three-numbers) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
