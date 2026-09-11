@@ -198,6 +198,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [2029-stone-game-ix](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -269,6 +270,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [3871-count-commas-in-range-ii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3876-construct-uniform-parity-array-ii) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Enumeration
 |  |
 | ------- |
