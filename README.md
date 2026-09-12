@@ -82,6 +82,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0035-search-insert-position](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0118-pascals-triangle) |
@@ -313,6 +314,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0268-missing-number) |
@@ -363,6 +365,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
