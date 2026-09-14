@@ -52,6 +52,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0541-reverse-string-ii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0541-reverse-string-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0771-jewels-and-stones) |
+| [0925-long-pressed-name](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0925-long-pressed-name) |
 | [1189-maximum-number-of-balloons](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1773-count-items-matching-a-rule](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1773-count-items-matching-a-rule) |
@@ -179,6 +180,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0349-intersection-of-two-arrays](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0541-reverse-string-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0922-sort-array-by-parity-ii) |
+| [0925-long-pressed-name](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0925-long-pressed-name) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2540-minimum-common-value](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2540-minimum-common-value) |
