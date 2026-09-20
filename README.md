@@ -59,6 +59,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [4030-check-ascii-palindromic](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/4030-check-ascii-palindromic) |
@@ -204,6 +205,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0735-asteroid-collision](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0735-asteroid-collision) |
 | [1920-build-array-from-permutation](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3498-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Greedy
 |  |
