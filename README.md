@@ -131,6 +131,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2104-sum-of-subarray-ranges) |
+| [2460-apply-operations-to-an-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2460-apply-operations-to-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2540-minimum-common-value) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -187,6 +188,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0925-long-pressed-name](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0925-long-pressed-name) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2460-apply-operations-to-an-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2540-minimum-common-value) |
 | [3794-reverse-string-prefix](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -205,6 +207,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0735-asteroid-collision](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0735-asteroid-collision) |
 | [1920-build-array-from-permutation](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1929-concatenation-of-array) |
+| [2460-apply-operations-to-an-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2460-apply-operations-to-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3498-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Greedy
