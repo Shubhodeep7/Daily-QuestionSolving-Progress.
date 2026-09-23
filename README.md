@@ -128,6 +128,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [1552-magnetic-force-between-two-balls](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1552-magnetic-force-between-two-balls) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1672-richest-customer-wealth](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1672-richest-customer-wealth) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1773-count-items-matching-a-rule](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1929-concatenation-of-array) |
@@ -264,6 +265,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1552-magnetic-force-between-two-balls) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2389-longest-subsequence-with-limited-sum) |
