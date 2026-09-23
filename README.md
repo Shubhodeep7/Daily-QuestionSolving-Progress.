@@ -135,6 +135,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2104-sum-of-subarray-ranges) |
 | [2109-adding-spaces-to-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2109-adding-spaces-to-a-string) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2460-apply-operations-to-an-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2460-apply-operations-to-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2540-minimum-common-value) |
@@ -225,6 +226,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [1323-maximum-69-number](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1323-maximum-69-number) |
 | [2029-stone-game-ix](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Sliding Window
@@ -262,6 +264,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [1552-magnetic-force-between-two-balls](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1552-magnetic-force-between-two-balls) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2089-find-target-indices-after-sorting-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2540-minimum-common-value) |
 ## Prefix Sum
@@ -273,6 +276,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1480-running-sum-of-1d-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3903-smallest-stable-index-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3903-smallest-stable-index-i) |
 ## Linked List
 |  |
@@ -360,6 +364,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2089-find-target-indices-after-sorting-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
