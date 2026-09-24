@@ -54,6 +54,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0771-jewels-and-stones](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0771-jewels-and-stones) |
 | [0925-long-pressed-name](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0925-long-pressed-name) |
 | [1189-maximum-number-of-balloons](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1189-maximum-number-of-balloons) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1773-count-items-matching-a-rule](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1773-count-items-matching-a-rule) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -242,6 +243,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0930-binary-subarrays-with-sum](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -263,6 +265,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1208-get-equal-substrings-within-budget) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -281,6 +284,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0560-subarray-sum-equals-k](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1208-get-equal-substrings-within-budget) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
