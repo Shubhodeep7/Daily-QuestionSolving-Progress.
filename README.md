@@ -57,6 +57,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [1208-get-equal-substrings-within-budget](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1773-count-items-matching-a-rule](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1773-count-items-matching-a-rule) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2109-adding-spaces-to-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2109-adding-spaces-to-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -132,6 +133,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [1672-richest-customer-wealth](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1672-richest-customer-wealth) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1773-count-items-matching-a-rule](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1773-count-items-matching-a-rule) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1920-build-array-from-permutation](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2029-stone-game-ix) |
@@ -170,6 +172,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2540-minimum-common-value](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2540-minimum-common-value) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3090-maximum-length-substring-with-two-occurrences) |
