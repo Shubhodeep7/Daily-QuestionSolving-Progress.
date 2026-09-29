@@ -308,6 +308,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0189-rotate-array) |
