@@ -53,6 +53,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0678-valid-parenthesis-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0771-jewels-and-stones) |
 | [0925-long-pressed-name](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0925-long-pressed-name) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1189-maximum-number-of-balloons) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -79,6 +80,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0503-next-greater-element-ii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0735-asteroid-collision) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2104-sum-of-subarray-ranges) |
 ## Design
@@ -449,6 +451,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0678-valid-parenthesis-string) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Interactive
 |  |
