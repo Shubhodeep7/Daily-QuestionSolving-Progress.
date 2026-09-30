@@ -146,6 +146,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2104-sum-of-subarray-ranges) |
 | [2109-adding-spaces-to-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2109-adding-spaces-to-a-string) |
+| [2358-maximum-number-of-groups-entering-a-competition](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2460-apply-operations-to-an-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2460-apply-operations-to-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -239,6 +240,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [1323-maximum-69-number](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1323-maximum-69-number) |
 | [2029-stone-game-ix](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2358-maximum-number-of-groups-entering-a-competition](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/4000-largest-integer-with-given-digit-sum) |
@@ -283,6 +285,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2089-find-target-indices-after-sorting-array) |
+| [2358-maximum-number-of-groups-entering-a-competition](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2540-minimum-common-value) |
@@ -321,6 +324,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [1323-maximum-69-number](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1323-maximum-69-number) |
 | [2029-stone-game-ix](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2235-add-two-integers) |
+| [2358-maximum-number-of-groups-entering-a-competition](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3536-maximum-product-of-two-digits) |
