@@ -454,6 +454,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
