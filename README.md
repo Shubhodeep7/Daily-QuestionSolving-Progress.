@@ -42,6 +42,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0032-longest-valid-parentheses) |
 | [0290-word-pattern](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0383-ransom-note) |
@@ -73,6 +74,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0402-remove-k-digits) |
@@ -217,6 +219,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0070-climbing-stairs) |
@@ -455,6 +458,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
