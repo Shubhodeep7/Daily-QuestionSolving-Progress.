@@ -141,6 +141,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1773-count-items-matching-a-rule](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1773-count-items-matching-a-rule) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1920-build-array-from-permutation](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2029-stone-game-ix) |
@@ -210,6 +211,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0977-squares-of-a-sorted-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2109-adding-spaces-to-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2109-adding-spaces-to-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2540-minimum-common-value) |
@@ -286,6 +288,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2089-find-target-indices-after-sorting-array) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2358-maximum-number-of-groups-entering-a-competition) |
