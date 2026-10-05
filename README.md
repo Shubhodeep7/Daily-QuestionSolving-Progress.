@@ -40,6 +40,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0032-longest-valid-parentheses) |
@@ -162,6 +163,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0290-word-pattern) |
@@ -320,6 +322,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0189-rotate-array) |
