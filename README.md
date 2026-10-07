@@ -52,6 +52,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0402-remove-k-digits](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0424-longest-repeating-character-replacement) |
 | [0541-reverse-string-ii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0541-reverse-string-ii) |
+| [0647-palindromic-substrings](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -210,6 +211,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0345-reverse-vowels-of-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0541-reverse-string-ii) |
+| [0647-palindromic-substrings](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0647-palindromic-substrings) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0977-squares-of-a-sorted-array) |
@@ -230,6 +232,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0053-maximum-subarray](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0118-pascals-triangle) |
+| [0647-palindromic-substrings](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0678-valid-parenthesis-string) |
 ## Simulation
 |  |
