@@ -62,6 +62,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [1189-maximum-number-of-balloons](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1189-maximum-number-of-balloons) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1773-count-items-matching-a-rule) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -89,6 +90,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2104-sum-of-subarray-ranges) |
 ## Design
@@ -253,6 +255,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0678-valid-parenthesis-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1323-maximum-69-number](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1323-maximum-69-number) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2029-stone-game-ix](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2358-maximum-number-of-groups-entering-a-competition) |
@@ -477,6 +480,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Interactive
 |  |
