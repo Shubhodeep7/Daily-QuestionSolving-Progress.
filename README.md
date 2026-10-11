@@ -162,6 +162,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [2460-apply-operations-to-an-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2460-apply-operations-to-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2540-minimum-common-value) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2778-sum-of-squares-of-special-elements) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3876-construct-uniform-parity-array-ii) |
@@ -356,6 +357,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3345-smallest-divisible-digit-product-i) |
 ## Counting
 |  |
