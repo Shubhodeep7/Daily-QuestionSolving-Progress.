@@ -105,6 +105,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0066-plus-one) |
@@ -335,6 +336,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | ------- |
 | [0007-reverse-integer](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0189-rotate-array) |
@@ -444,6 +446,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0048-rotate-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1672-richest-customer-wealth) |
 ## Divide and Conquer
