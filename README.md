@@ -105,6 +105,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0056-merge-intervals) |
@@ -500,4 +501,8 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1051-height-checker) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
