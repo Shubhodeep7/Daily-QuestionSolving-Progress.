@@ -264,6 +264,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Sliding Window
 |  |
@@ -352,6 +353,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3536-maximum-product-of-two-digits) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3875-construct-uniform-parity-array-i) |
