@@ -129,6 +129,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0977-squares-of-a-sorted-array) |
@@ -221,6 +222,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0349-intersection-of-two-arrays](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0647-palindromic-substrings) |
+| [0905-sort-array-by-parity](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0977-squares-of-a-sorted-array) |
@@ -412,6 +414,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0349-intersection-of-two-arrays](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1051-height-checker) |
