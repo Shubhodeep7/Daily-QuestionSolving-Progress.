@@ -337,6 +337,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0021-merge-two-sorted-lists) |
+| [0342-power-of-four](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0342-power-of-four) |
 ## Math
 |  |
 | ------- |
@@ -347,6 +348,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0070-climbing-stairs](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -382,6 +384,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0389-find-the-difference) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1018-binary-prefix-divisible-by-5) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
