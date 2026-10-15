@@ -165,6 +165,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2540-minimum-common-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3876-construct-uniform-parity-array-ii) |
@@ -195,6 +196,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2540-minimum-common-value](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2540-minimum-common-value) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Monotonic Stack
@@ -507,4 +509,12 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0046-permutations) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
