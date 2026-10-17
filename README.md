@@ -71,6 +71,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3120-count-the-number-of-special-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -200,6 +201,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3120-count-the-number-of-special-characters-i) |
 ## Monotonic Stack
 |  |
 | ------- |
