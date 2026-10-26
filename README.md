@@ -172,6 +172,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [3875-construct-uniform-parity-array-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3903-smallest-stable-index-i) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -318,6 +319,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2540-minimum-common-value) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -372,6 +374,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3345-smallest-divisible-digit-product-i) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Counting
 |  |
 | ------- |
@@ -431,6 +434,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3536-maximum-product-of-two-digits) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
