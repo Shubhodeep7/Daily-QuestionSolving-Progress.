@@ -120,6 +120,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0283-move-zeroes](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0349-intersection-of-two-arrays) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0540-single-element-in-a-sorted-array) |
@@ -354,6 +355,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0268-missing-number](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0367-valid-perfect-square) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1323-maximum-69-number) |
@@ -421,6 +423,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [0347-top-k-frequent-elements](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0389-find-the-difference) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/0922-sort-array-by-parity-ii) |
