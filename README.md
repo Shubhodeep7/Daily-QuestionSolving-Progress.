@@ -258,6 +258,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [1929-concatenation-of-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2109-adding-spaces-to-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2460-apply-operations-to-an-array) |
+| [3360-stone-removal-game](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3498-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Greedy
@@ -365,6 +366,7 @@ Feel free to explore, fork, or suggest improvements. Let’s grow together! 🚀
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3536-maximum-product-of-two-digits) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/Shubhodeep7/Daily-QuestionSolving-Progress./tree/master/3870-count-commas-in-range) |
